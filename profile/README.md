@@ -1,3 +1,9 @@
+## Example Notebooks
+
+Liz has started to develop example notebooks to show different clustering approaches.
+
+[Link to the repository](https://github.com/ioccg-owt/IOCCG_OWT_Ch4_Notebooks)
+
 ## Data
 Data for the examples were collated by Bror. The datasets are collected from different projects and harmonzied to one format. 
 The goal has been to have datasets that are useful for students and other to play with clustering and water types + data that 
