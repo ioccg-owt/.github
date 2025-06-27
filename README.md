@@ -8,8 +8,12 @@ can be used for quick and dirty tests. They are not necessarily covering all use
 Each dataset has at least the following structure:
 
 #### Dimensions:
-ID - row ID
-wavelengths - wavelength for the data point
+
+|name|descrition|
+-----------------
+| ID | row ID for the data point|
+| wavelengths | wavelength for the data point |
+-----------------------------------------------
  
 #### Fields:
  
