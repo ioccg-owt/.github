@@ -18,7 +18,7 @@ Each dataset has at least the following structure:
 #### Fields:
 
  |name|dimensions|descrition|
- |---|---|---]
+ |---|---|---|
 | time | (ID) | time as a pandas datetime object |
 | lat | (ID) | Latitude in decimal format |
 | lon | (ID) | Longitude in decimal format |
